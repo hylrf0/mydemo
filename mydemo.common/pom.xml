@@ -11,6 +11,13 @@
 
     <groupId>mydemo.common</groupId>
     <artifactId>mydemo.common</artifactId>
+    <dependencies>
+        <dependency>
+            <groupId>mydemo.dao</groupId>
+            <artifactId>mydemo.dao</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 
 
 </project>
